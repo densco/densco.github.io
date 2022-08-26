@@ -3,6 +3,7 @@ author: "Denis"
 description: "Passiert und notiert."
 permalink: /:title/
 lang: "de"
+excerpt_separator: <!--more-->
 date_format: "%d.%m.%Y"
 
 # Layout

@@ -8,7 +8,7 @@ layout: page
 
 - [Filterblog](https://filterblog.de)
 - [Kuketz IT-Security](https://www.kuketz-blog.de/) - Für mich DIE Quelle zu IT-Security-Themen
-- [Lars Reineke](https://https://larsreineke.de/)
+- [Lars Reineke](https://larsreineke.de/)
 - [Niklas Buschmann](https://niklasbuschmann.github.io/) - Ersteller des Blogtemplates
 
 ## Podroll

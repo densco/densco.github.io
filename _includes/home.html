@@ -2,8 +2,8 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {{ post.content | markdownify | strip_html | truncatewords: 5000 }}
-    <div class="more"><a href="{{ post.url | relative_url }}">Mehr lesen</a></div>
+    <!-- {{ post.excerpt }}
+    <div class="more"><a href="{{ post.url | relative_url }}">Mehr lesen</a></div> -->
   </article>
 {% endfor %}
 

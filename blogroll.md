@@ -10,6 +10,7 @@ layout: page
 - [Kuketz IT-Security](https://www.kuketz-blog.de/) - Für mich DIE Quelle zu IT-Security-Themen
 - [Lars Reineke](https://larsreineke.de/)
 - [Niklas Buschmann](https://niklasbuschmann.github.io/) - Ersteller des Blogtemplates
+- [wssndrf](https://wssndrf.me)
 
 ## Podroll
 - [Deichfunk](https://deichfunk.substack.com/)

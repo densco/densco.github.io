@@ -1,14 +1,14 @@
 ---
-title: "Colophon"
+title: Colophon
 permalink: "/colophon/"
 layout: page
 published: false
+
 ---
+**_Hinweis:_** _Die Liste enthält Geräte & Software, die ich nutze und subjektiv gut finde. Eine Kaufempfehlung ist nicht intendiert, die Links weisen auf die Produktdatenblätter und sind kein Affiliate-Gedöns. Bitte macht euch ein eigenes Bild, wenn ihr Technik kaufen wollt - jeder Mensch nimmt Features unterschiedlich wahr und kommt dadurch zu anderen Bewertungen._
 
-_**Hinweis:** Die Liste enthält Geräte, die ich nutze und subjektiv gut finde. Eine Kaufempfehlung ist nicht intendiert, die Links weisen auf die Produktdatenblätter und sind kein Affiliate-Gedöns. Bitte macht euch ein eigenes Bild, wenn ihr Technik kaufen wollt - jeder Mensch nimmt Features unterschiedlich wahr und kommt dadurch zu anderen Bewertungen._
+#### Hardware
 
-
-#### Hardware ####
 [Apple MacBook Pro 14", 2021](https://support.apple.com/kb/SP854?locale=de_DE)
 In der subjektiven Reihenfolge von MacBooks, mit denen ich bisher arbeiten durfte, ist die 2021-Variante mit dem M1 Pro-Prozessor wirklich das Beste. In neun Monaten hat der Lüfter einmal hochgedreht - das lag aber an einer völlig aufgeblasenen VPN-Software, die ich direkt wieder deinstallierte. Von dieser selbstverschuldeten Episode abgesehen hat das MBP eine Power, die mich immer wieder überrascht.
 

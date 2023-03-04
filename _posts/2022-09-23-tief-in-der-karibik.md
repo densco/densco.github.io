@@ -3,7 +3,7 @@ title: "Tief in der Karibik"
 layout: post
 ---
 
-Eines meiner absoluten Lieblingsspiele ist The Curse of Monkey Island. Dicht gefolgt von The Secret of Monkey Island. Umso erstaunter und danach erfreuter war ich, als Ron Gilbert (der geistige Vater der Serie) auf seinem Blog anküdigte, dass er ein neues Monkey Island-Spiel macht. Und genau dieses Spiel ist nun seit letztem Montag verfügbar. Hier meine zwei Cent nach erstem Anspielen (nur eine Stunde, Arbeit und andere Dinge müssen ja auch erledigt werden).
+Eines meiner absoluten Lieblingsspiele ist The Curse of Monkey Island. Dicht gefolgt von The Secret of Monkey Island. Umso erstaunter und danach erfreuter war ich, als Ron Gilbert (der geistige Vater der Serie) auf seinem Blog ankündigte, dass er ein neues Monkey Island-Spiel macht. Und genau dieses Spiel ist nun seit letztem Montag verfügbar. Hier meine zwei Cent nach erstem Anspielen (nur eine Stunde, Arbeit und andere Dinge müssen ja auch erledigt werden).
 
 #### Grafik ####
 Dieser Punkt ist mit Erscheinen des ersten Trailers am Heftigsten disktutiert worden. Auch ich war im ersten Moment etwas skeptisch, hatte mich aber entschieden, dem Ganzen eine Chance zu geben und nicht wie andere Puristen beleidigte Hasskommentare zu formulieren. Im Spiel selbst fühlt es sich sehr gut an, das etwas eckige Gesicht von Guybrush scheint aus den frühen 90ern direkt ins Hier und Jetzt gemorpht worden zu sein. LeChuck sieht für mich eher nach Holzpuppe als nach einem Untoten aus, aber das kann auch einfach an mir und meiner Wahrnehmung liegen.

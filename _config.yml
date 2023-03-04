@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blogroll.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mastodon, icon: fa-mastodon, url: "https://social.densco.net/@densco"}
+  - {title: Mastodon, icon: elephant, url: "https://social.densco.net/@densco"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

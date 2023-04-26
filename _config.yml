@@ -1,7 +1,7 @@
 title: "Loggbok"
 author: "Denis"
 description: "Passiert und notiert."
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 lang: "de"
 excerpt_separator: <!--more-->
 date_format: "%d.%m.%Y"

@@ -1,0 +1,12 @@
+---
+title: "Achtunddreißig."
+layout: post
+---
+
+In wenigen Stunden ist es soweit, mein Geburtstag jährt sich auf ein Neues. Ab morgen kann ich in aller Sachlichkeit von mir behaupten, dass ich jetzt Ende Dreißig sei. Und irgendwie fühlt es sich nicht so zäsurartig an wie Anfang dreißig. Im Gegenteil, mit jedem Jahr mehr stellt sich eine immer tiefer werdende Gelassenheit ein. Weil bestimmte Werte doch nicht selbige sind und Zeitgenoss:innen, denen man vor Jahresfristen noch andichtete, dass sie ihr Leben ja so toll im Griff hätten und ihnen alles gelänge, vielleicht auch nur das Gesellschaftsspiel mitbetreiben. Der zufällige Blick hinter die Kulissen offenbart, dass sie an genau den gleichen Fragen knabbern, mit ihnen hadern und auch nur von Zeitfenster zu Zeitfenster schauen. Weil ihnen niemand die Cheatcodes für perfekte Existenz mitgeteilt hat. Und wenn doch, dann nur auf Kosten anderer Personen.
+
+Als mein Vater vor fünfeinhalb Jahren starb, war das ein gewisser Zäsurpunkt. Gar nicht in einem Sinne, dass ich mich selbst zum endgültigen Erwachsenwerden aufgefordert habe. Sondern dass es einfach passierte. Speziell die zwölf Monate danach waren von Veränderungen geprägt, die sich besonders beruflich niederschlugen. Dort habe ich ein neues Level erreicht, welches anfangs nur sehr mühevoll und mittlerweile deutlich einfacher erreicht wurde. Mittlerweile habe ich gelernt, dass alle nur schauspielern und es dem persönlichen Moralkompass nicht schadet, wenn man auch etwas Selbstmarketing betreibt. Dennoch habe ich nie übertrieben und werde nie übertreiben, das ist nicht mein Typ. Und damit lebe ich sehr gut.
+
+Da die Liebste mir etwas voraus ist, weiß ich seit Kurzem, dass auch Anfang Vierzig kein Zustand ist, in dem man morgens aufwacht und alles in Frage stellt. Das wäre auch nicht meine Natur. Wir werden einfach achtsamer für Details, sie ist mir da aber meilenweit voraus. Das ist unfassbar erdend, gibt Halt. In einer immer lauten und gefühlt täglich neu fragilen Welt ist das wesentlich, vor allem wenn ständig neue Opportunitäten propagiert werden und man als junger Mensch vermutlich nahe dem geistigen Ausnahmezustand sein muss. Es ist gerade zu wohltuend, jetzt nicht zwanzig Jahre jünger zu sein und sich diesem Irrsinn während der parallel stattfindenden Persönlichkeitsbildung unterwerfen zu müssen.
+
+Morgen wird ein Tag sein wie heute und übermorgen, wie gestern und die Woche zuvor. Aber ich werde wieder einen Schritt näher an der Erkenntnis sein, dass die Gelassenheit größer wird. Darauf freue ich mich.

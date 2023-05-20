@@ -3,7 +3,7 @@ title: "Bustopher Jones"
 layout: post
 ---
 
-![Bustopher](/assets/IMG_1156.jpg)
+![Bustopher](/assets/IMG_1156.jpeg)
 
 Herr Buddenbohm schrieb unlängst so treffend, dass Rätsel übrig blieben, wenn jemand stirbt. Bei einem Tier trifft das im besonderen Maße zu, vor allem im Falle eines Wildtiers.
 

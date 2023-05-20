@@ -17,12 +17,9 @@ Nach der überstandenen Sepsis war Bustopher wieder umtriebig, die letzten Tage 
 
 Alles Gute Busti, wo auch immer du dich jetzt niedergelassen hast. Du wirst uns fehlen.
 
-*In the whole of St. James's the smartest of names is
-
-The name of this Brummell of Cats
-
-And we're all of us proud to be nodded or bowed to
-
-By Bustopher Jones in white spats*
+*In the whole of St. James's the smartest of names is*
+*The name of this Brummell of Cats*
+*And we're all of us proud to be nodded or bowed to*
+*By Bustopher Jones in white spats*
 
 {% include embed.html url="https://y.com.sb/embed/xjwbgxFmwQw" %}

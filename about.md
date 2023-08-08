@@ -12,3 +12,7 @@ Der Autor ist Ende 30, lebt nahe und arbeitet in Hamburg als Marketing-Berater u
 
 #### Ich kann hier gar nicht kommentieren?!
 Ja.
+
+#### Hier gibt es ja gar keinen Dark Mode?!
+
+Doch, gibt es. Aber nur für Apple-Geräte.

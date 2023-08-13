@@ -6,6 +6,7 @@ layout: page
 
 ### Blogs
 
+- [Dobschat](https://dobschat.io)
 - [Filterblog](https://filterblog.de)
 - [hejsven](https://hejsven.de)
 - [Kuketz IT-Security](https://www.kuketz-blog.de/)

@@ -11,7 +11,7 @@ Loggbok ist die schwedische Übersetzung des Wortes "Logbuch". Also das Buch, in
 Der Autor ist Ende 30, lebt nahe und arbeitet in Hamburg als Marketing-Berater und interessiert sich für Computerkram, Musik, Snooker und lernt seit Anfang 2020 das koordinierte Bedienen eines Schlagzeugs. Er ist Familienvater, das inkludiert auch vier Katzen.
 
 #### Ich kann hier gar nicht kommentieren?!
-Ja.
+Ja. Wenn du mir etwas mitteilen möchtest, nutze den Mastodon-Account. Den Link findest du unten im Footer.
 
 #### Hier gibt es ja gar keinen Dark Mode?!
 

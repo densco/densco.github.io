@@ -14,12 +14,15 @@ Leipziger Str. 10
 {% endhighlight %}
 
 #### Kontakt
+{% highlight c %}
+
 E-Mail: hej@loggbok.de
-**Weitere Kontaktdaten auf Anfrage.**
+Weitere Kontaktdaten auf Anfrage.
+
+{% endhighlight %}
 
 #### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 Denis Scollie
-Anschrift wie oben
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 

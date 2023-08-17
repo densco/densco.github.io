@@ -1,7 +1,7 @@
 ---
 title: "Das Jahr des Desktops"
 layout: post
-tags: linux
+categories: linux
 ---
 
 Es gibt in der IT-Welt so manchen Witz, der es zu gigantischen Ausmaßen gebracht hat. Unter Anderem den, dass das jeweils aktuelle Jahr das Jahr des Linux-Desktops wird. Der Witz hat aber nur eine geringe Halbwertszeit, da er lediglich zum jeweiligen Jahresanfang funktioniert. In der Praxis aber geht Linux die Massentauglichkeit eines Windows ab. Dabei gibt es viele gute Ansätze. Für geneigte Anfänger:innen sind diese ohne gewisse Mühen nicht immer erkennbar.

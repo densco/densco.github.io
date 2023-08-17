@@ -5,13 +5,13 @@ layout: page
 ---
 
 #### Angaben gemäß § 5 TMG
-{% highlight %}
+{% highlight c %}
 
 Denis Scollie
 Leipziger Str. 10
 21423 Winsen (Luhe)
 
-{% endhighlight c %}
+{% endhighlight %}
 
 #### Kontakt
 {% highlight c %}

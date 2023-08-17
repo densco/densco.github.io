@@ -5,7 +5,7 @@ layout: page
 ---
 
 #### Angaben gemäß § 5 TMG
-{% highlight c %}
+{% highlight %}
 
 Denis Scollie
 Leipziger Str. 10
@@ -14,7 +14,7 @@ Leipziger Str. 10
 {% endhighlight %}
 
 #### Kontakt
-{% highlight c %}
+{% highlight %}
 
 E-Mail: hej@loggbok.de
 Weitere Kontaktdaten auf Anfrage.

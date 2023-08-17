@@ -11,10 +11,10 @@ Denis Scollie
 Leipziger Str. 10
 21423 Winsen (Luhe)
 
-{% endhighlight html %}
+{% endhighlight c %}
 
 #### Kontakt
-{% highlight html %}
+{% highlight c %}
 
 E-Mail: hej@loggbok.de
 Weitere Kontaktdaten auf Anfrage.

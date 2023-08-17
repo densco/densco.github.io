@@ -2,7 +2,6 @@
 title: "Impressum"
 permalink: "/impressum/"
 layout: page
-published: false
 ---
 
 #### Angaben gemäß § 5 TMG

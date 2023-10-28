@@ -14,4 +14,4 @@ Der Autor ist Ende 30, lebt nahe und arbeitet in Hamburg als Marketing-Berater u
 Ja. Wenn du mir etwas mitteilen möchtest, nutze den Mastodon-Account. Den Link findest du unten im Footer.
 
 #### Hier gibt es ja gar keinen Dark Mode?!
-~~Doch, gibt es. Aber nur für Apple-Geräte.~~ Jetzt neu für alle: Das neue Design, das keine Unterschiede bei den Devices macht.
+~~Doch, gibt es. Aber nur für Apple-Geräte.~~ Jetzt neu für alle: Das neue Design, das keine Unterschiede bei den Devices macht. Dafür ist es experimentiell, damit müsst ihr leben.

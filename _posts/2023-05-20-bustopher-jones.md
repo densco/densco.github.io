@@ -22,4 +22,4 @@ Alles Gute Busti, wo auch immer du dich jetzt niedergelassen hast. Du wirst uns 
 *And we're all of us proud to be nodded or bowed to*<br>
 *By Bustopher Jones in white spats*
 
-{% include embed.html url="https://yt.cdaut.de//embed/xjwbgxFmwQw" %}
+{% include embed.html url="https://iv.datura.network/embed/xjwbgxFmwQw" %}

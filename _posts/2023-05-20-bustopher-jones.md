@@ -21,5 +21,3 @@ Alles Gute Busti, wo auch immer du dich jetzt niedergelassen hast. Du wirst uns 
 *The name of this Brummell of Cats*<br>
 *And we're all of us proud to be nodded or bowed to*<br>
 *By Bustopher Jones in white spats*
-
-{% include embed.html url="https://iv.datura.network/embed/xjwbgxFmwQw" %}

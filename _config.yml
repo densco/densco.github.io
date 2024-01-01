@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {file: "archive.html"}
 #  - {file: "impressum.md"}
   - {title: Mastodon, icon: mastodon, url: "https://social.densco.net/@densco"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Abonnieren, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

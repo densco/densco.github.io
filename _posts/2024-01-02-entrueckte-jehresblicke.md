@@ -1,0 +1,12 @@
+---
+title: "Entrückte Jahresblicke"
+layout: post
+---
+
+Mit dem gestrigen Abend haben wir die Raclette-Saison 2023/2024 beendet. Die Ursache liegt weniger in der Verfügbarkeit von Zutaten (mit dem noch vorhandenen Raclettekäse könnten wir sicherlich ein Fondue ausstaffieren), sondern eher in der mühseligen Reinigung von Grillplatte und Pfännchen. Es ist eine gelinde gesagt scheiß Arbeit und man schwankt zwischen "jetzt nochmal richtig hart schrubben" und "aber die gute Beschichtung". Vermutlich ist das auch der wesentliche Grund, warum sich Raclette niemals für den alltäglicheren Gebrauch durchsetzen wird.
+
+Der Tag begann kurz nach Mitternacht mit einem unverlangt eingesandten Jahresrückblick von Lieferando, dank dem ich nun weiß, dass Auslieferfahrer:innen im Jahr 2023 22,69 Kilometer fuhren, um uns bestellte Speisen zu liefern. Was ich mit dieser Information soll, weiß ich nicht. Vermutlich fand ein gewitzter Marketing-Guru, dass man die Disziplin "Nutzlose Fakten individuellen Verhaltens" nicht allein Spotify überlassen sollte. Meinem eh schon mehr als kaputt konfigurierten Schlafzyklus hat das neu erlangte Wissen nicht gut getan. Den Rest des Urlaubs werde ich nun sehr verzweifelt versuchen müssen, wieder mehr dem gesellschaftlich erwarteten Werktags-Wach entgegen zu kommen.
+
+Im weiteren Verlauf schauten wir das im ZDF gelaufene Neujahrskonzert von gestern nach. An sich wollte die Liebste es wegen der Eröffnung des Bruckner-Jahrs sehen, es kam aber nur ein eher belangloses Stück vor. Der Rest war in Hauptsache Johann Strauß und seinen Nach- und Nebenkommen gewidmet. Das Verhalten des Publikums in Sachen Beifallsbekundungen zeigte allerdings deutlich auf, dass die Zahl der Klassikfreunde durch die der High Society-Verpflichteten deutlich überstiegen wurde. Zudem kamen uns die zwischendurch eingeblendeten Darbietungen des Wiener Staatsballets wie ein Fiebertraum vor, ansonsten war das Konzert aber in Ordnung.
+
+Ansonsten schaute ich mir noch verschiedene Static Site Generatoren an und verfluchte meine Faulheit beim Erlernen von HTML, CSS und JS. Was könnte ich für hübsche Dinge anstellen, wenn ich das wirklich könnte. So bleibt nur das Gefühl einer andauernden Unzufriedenheit, die nie wirklich aufgelöst wird. Vielleicht muss ich doch nochmal an das Thema, mir ist jedoch die beste Art des Zugangs unklar. Probiert habe ich da Einiges, aber bisher war keine Methode erfolgreich. Das sollte ich ändern, denn grundsätzlichen Spaß an der Thematik hätte ich schon.

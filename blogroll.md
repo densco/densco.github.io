@@ -16,8 +16,8 @@ layout: page
 
 ### Podcasts
 
-- [Deichfunk](https://deichfunk.substack.com/)
 - [Radio Bastard](https://radiobastard.fm)
+- [Unf*ck your data](https://unfck-your-data.captivate.fm/)
 
 
 *Anmerkung: Die Rolls sind rein alphabetisch geordnet, eine besondere Empfehlung ist nicht intendiert.*

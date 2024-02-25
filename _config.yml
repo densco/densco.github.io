@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {file: "archive.html"}
-#  - {file: "impressum.md"}
+  - {file: "impressum.md"}
   - {title: Mastodon, icon: mastodon, url: "https://social.densco.net/@densco"}
   - {title: Abonnieren, icon: rss, url: "/feed.xml"}
 

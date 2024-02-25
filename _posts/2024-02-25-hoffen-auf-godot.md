@@ -1,0 +1,10 @@
+---
+title: "Hoffen auf Godot"
+layout: post
+---
+
+Nach verheißungsvollem Beginn ist mein Blogging-Streak ziemlich abrupt abgerissen. Die Arbeitsthemen haben doch schnell die guten Vorsätze überlagert. Aber es ist nie zu spät, sich wieder reinzubeißen. Inzwischen ist der Februar auch schon so gut wie durch. Der Mensch wiegt bedeutungsschwer den Kopf und fragt sich, wie das denn schon wieder angehen könne. So reich wie das öffentliche Jahr schon wieder an Themen war, ist das Gefühl der Hirnschmelze gar nicht so abwegig.
+
+Ist es für dieses Jahr schon zu spät für Hoffnung? Darf man überhaupt noch hoffen oder ist es eh gleich? Solche Fragen beschäftigen mich immer, wenn ich verschämt in die Nachrichtenlage wie in ein schwarzes Loch blicke und mir dabei leise die Frage vorlege, was denn diesen Planeten überhaupt noch vorm Auseinanderbröseln bewahrt. Hoffnung ist ein kunstvoll fabrizierter Wandteppich, den man sich vor die hässlichste Stelle der Realität hängt und dann langsam dabei zuschaut, wie der Teppich erst klamm, dann feucht und am Ende ein Herd des Schimmels wird. Weil das wenig überrascht, hat man aber gleich einen Ersatz griffbereit und so wiederholt sich das Ritual. Die Wand könnte man zwar sanieren, aber dafür muss der Nachbar mitspielen. Da beginnt oft für Viele das Dilemma.
+
+Es gibt immer wieder Phasen, in der ich der Hoffnung erliege, mich an ihr labe. Ebenso die Momente, in der ich ihr entsage und mich im Zynismus über das Weltgeschenen ergehe. Ist es angebracht, dass ich Partikel im Universum alles verdamme? Ist es nicht eher richtig, dass ich meine Rolle akzeptiere und darauf hoffe, dass alles seine Form erhält, die Dinge in Ordnung kommen? Was ist mein Beitrag für eine bessere Welt und wie bringe ich den in Einklang mit meinen Verpflichtungen? Die Antworten sind nicht eindeutig, es gibt viele Optionen. Es bedaf aber auch Energie und den Willen, diese aufzubringen und sinnvoll zwischen den Prioritäten der Existenz zu verteilen. Hoffnung ist ein wirksames Substrat. Wenn man sie nicht in Godot investiert.

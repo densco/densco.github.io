@@ -13,4 +13,4 @@ Landesregierung und Nahverkehrsgesellschaft üben sich in kritischen Ansagen, da
 
 Guter ÖPNV, der den Menschen dient, kostet Geld - und das nicht wenig. Wir sind als Gesellschaft scheinbar nicht willens, dafür zu zahlen. Oder nur das, was das absolute Minimum ist. So bestellt die Landesnahverkehrsgesellschaft halt bei dem Anbieter, der den günstigsten Preis offeriert. Das ist für alle schlecht: Für das Unternehmen, dass sich im Wettbewerb ruiniert. Für die LNVG, die sehendes Auges schlechten Service bestellt. Für die öffentliche Hand, die den Spielraum nicht hat und sich zum Gespött des Volkes macht. Und für die Menschen, die Tag für Tag als Passagiere auf öffentlichen Nahverkehr angewiesen sind.
 
-Die Frage ist: Lernen wir daraus? Oder spielen wir das immer so weiter, weil es immer einen Sündenbock geben muss und das so herrlich bequem ist?
+Die Frage ist: Lernen wir daraus? Oder spielen wir das immer so weiter, weil es immer einen Sündenbock geben muss?

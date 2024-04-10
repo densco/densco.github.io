@@ -1,0 +1,16 @@
+---
+title: "Primäre Zuständigkeit"
+layout: post
+---
+
+In unserer Region gibt es ein Verlässlichkeitsproblem im öffentlichen Nahverkehr auf der Schiene. Das derzeitig tätige Verkehrsunternehmen ist nicht mehr in der Lage, den Auftrag in Gänze zu erfüllen und hat mit der beauftragenden Landesnahverkehrsgesellschaft vereinbart, den Vertrag vorzeitig zu beenden. Statt Ende 2033 endet der Vertrag nun Mitte 2026, das sind aber immer noch zwei Jahre. Und es zeichnet sich ab, dass die Situation sich nicht verbessern wird.
+
+Der Landkreis hat bei der Unternehmensgründung Minoritätsanteile gehalten und nach einiger Zeit für einen soliden Preis an den Mehrheitseigner (ein privates Eisenbahnverkehrsunternehmen) veräußert. Im Gegensatz zu den anderen Landkreisen in der Region hat man (offenkundig auch gesellschaftsrechtlich) die Chance verpasst, Mitgestaltung im Unternehmen zu sichern. Nun kann man zurecht argumentieren, dass der Staat oder andere verwaltungsrechtliche Instanzen keine guten Unternehmer sind, für Aufgaben mit besonderem öffentlichen Interesse (dazu gehört Infrastruktur nun mal) kann das jedoch zum Bumerang werden. Genau diesen Bumerang bekommen tausende Pendler:innen nun tagtäglich an den Kopf.
+
+Mein Weg zur Arbeit beinhaltet eine Fahrt mit besagtem Unternehmen von 24 Minuten pro Strecke. In der Regel verlängert sich die Fahrzeit mittlerweile mindestens um den Faktor 1,5, durch ständig ausfallende Züge (mangelndes Personal, technische Fehler) und Verspätungen anderer Fahrten sind die Züge stets übervoll und die Technik im Zug (Toiletten und Klimaanlage) ist damit stets an der absoluten Belastungsgrenze. Von den Mängeln an der Infrastruktur spreche ich gar nicht, da das ausführende Unternehmen nicht zum roten Riesen gehört, sondern auch nur Trassen mietet und damit arbeiten muss, was die DB an Dingen anbietet.
+
+Landesregierung und Nahverkehrsgesellschaft üben sich in kritischen Ansagen, das Unternehmen versucht mit einer leicht humorvollen Marketingkampagne gegen zu steuern und der Landrat formuliert es auf Frage eines Bürgers in der Kreisratssitzung so (indirektes Zitat aus der Lokalzeitung): "Die Kreisverwaltung habe das Problem, dass sie primär nicht zuständig sei". Das ist formal richtig, hilft aber den betroffenen Personen, die sich je nach Reisezweck auch täglich mit den Problemen herum schlagen müssen, wenig bis gar nicht. Im Gegenteil schürt das eher Ärger auf die Mühlen der Bürokratie, die solche Probleme nicht lösen kann.
+
+Guter ÖPNV, der den Menschen dient, kostet Geld - und das nicht wenig. Wir sind als Gesellschaft scheinbar nicht willens, dafür zu zahlen. Oder nur das, was das absolute Minimum ist. So bestellt die Landesnahverkehrsgesellschaft halt bei dem Anbieter, der den günstigsten Preis offeriert. Das ist für alle schlecht: Für das Unternehmen, dass sich im Wettbewerb ruiniert. Für die LNVG, die sehendes Auges schlechten Service bestellt. Für die öffentliche Hand, die den Spielraum nicht hat und sich zum Gespött des Volkes macht. Und für die Menschen, die Tag für Tag als Passagiere auf öffentlichen Nahverkehr angewiesen sind.
+
+Die Frage ist: Lernen wir daraus? Oder spielen wir das immer so weiter, weil es immer einen Sündenbock geben muss?

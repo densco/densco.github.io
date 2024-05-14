@@ -12,7 +12,7 @@ layout: page
 - Apple Magic Mouse 2, 2022
 - Apple iPhone 15 Pro, 2023
 - AirPods Pro 2. Gen, 2023
-- Bose QuietComfor 35ii, 2020
+- Bose QuietComfort 35ii, 2020
 
 #### Software
 - Browser: Apple Safari / Google Chrome

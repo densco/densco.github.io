@@ -21,6 +21,8 @@ Weitere Kontaktdaten auf Anfrage.
 
 {% endhighlight %}
 
+Ich widerspreche ausdrücklich der Nutzung und/oder Übermittlung meiner hier genannten Kontaktdaten für kommerzielle Zwecke oder für die Markt- bzw. Meinungsforschung (§28 Abs.4 BDSG).
+
 #### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 Denis Scollie
 

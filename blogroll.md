@@ -12,7 +12,11 @@ layout: page
 - [Kuketz IT-Security](https://www.kuketz-blog.de/)
 - [Lars Reineke](https://larsreineke.de/)
 - [Niklas Buschmann](https://niklasbuschmann.github.io/) - Ersteller des Blogtemplates
+- [Thomas Gigold](https://gigold.me/blog/)
 - [wssndrf](https://wssndrf.me)
+
+### Webring
+- [UberBlogr](https://uberblogr.de)
 
 ### Podcasts
 

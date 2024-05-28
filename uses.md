@@ -13,6 +13,7 @@ layout: page
 - Apple iPhone 15 Pro, 2023
 - AirPods Pro 2. Gen, 2023
 - Bose QuietComfort 35ii, 2020
+- Panasonic TX-65JXN978, 2022
 
 #### Software
 - Browser: Apple Safari / Google Chrome
@@ -22,6 +23,7 @@ layout: page
 - Messaging: Apple iMessage / Signal / WhatsApp
 - Social Media: Fediverse (Mastodon) / Instagram
 - Mastodon: Ivory
+- Musikstreaming: Spotify
 - Coding: VSCodium
 - Kalender: Apple Calender
 

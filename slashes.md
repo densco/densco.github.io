@@ -18,4 +18,4 @@ Eine Auswahl an Blogs und Podcasts, die ich gerne verfolge. [LINK](/blogroll/)
 Ein Überblick über Hard- und Software, die ich (mehr oder weniger) regelmäßig verwende. [LINK](/uses/)
 
 
-> *Diese Liste ist work in progress und ist folglich nie fertig.*
+> *Diese Liste ist work in progress und folglich nie fertig.*

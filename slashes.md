@@ -14,6 +14,9 @@ Hier gibt es Informationen über mich und partiell über die Seite. [LINK](/abou
 #### /blogroll
 Eine Auswahl an Blogs und Podcasts, die ich gerne verfolge. [LINK](/blogroll/)
 
+#### /colophon
+Für die Technikfreunde ist hier das "Backend" der Seite vorgestellt. [LINK](/colophon/)
+
 #### /uses
 Ein Überblick über Hard- und Software, die ich (mehr oder weniger) regelmäßig verwende. [LINK](/uses/)
 

@@ -24,4 +24,5 @@ layout: page
 - [Unf*ck your data](https://unfck-your-data.captivate.fm/)
 
 
-*Anmerkung: Die Rolls sind rein alphabetisch geordnet, eine besondere Empfehlung ist nicht intendiert.*
+
+> *Anmerkung: Die Rolls sind rein alphabetisch geordnet, eine besondere Empfehlung ist nicht intendiert.*

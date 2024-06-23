@@ -11,6 +11,8 @@ Dieses Blog ist stolzes Mitglied des Webrings [UberBlogr](https://uberblogr.de/)
   
 #### Über den Autor
 Der Autor ist Ende 30, lebt nahe und arbeitet in Hamburg als Marketing-Berater und interessiert sich für Computerkram, Musik, Snooker und lernt seit Anfang 2020 das koordinierte Bedienen eines Schlagzeugs. Er ist Familienvater, das inkludiert auch drei Katzen und einen eingeschränkten Kater (gelähmte Hinterläufe).
+
+![Der Autor 2019 auf Langeoog am Strand beim Versuch, ein möglichst ungestelltes Selfie zu produzieren.](/assets/autor.heic)
   
 #### Ich kann hier gar nicht kommentieren?!
 Ja. Wenn du mir etwas mitteilen möchtest, nutze den Mastodon-Account. Den Link findest du unten im Footer.

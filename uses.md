@@ -31,4 +31,4 @@ layout: page
 - Teeservice: Everyday Greengate, Serie Alice
 
 
-*Diese Liste beruht auf persönlichen Vorlieben und sollte nicht dafür dienen, Kauf- oder Nutzungsempfehlungen auszusprechen.*
+> *Diese Liste beruht auf persönlichen Vorlieben und sollte nicht dafür dienen, Kauf- oder Nutzungsempfehlungen auszusprechen.*

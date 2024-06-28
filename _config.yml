@@ -26,6 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {file: "archive.html"}
   - {file: "search.html"}
   - {file: "impressum.md"}
+  - {title: No Tracking, icon: cookie-bite ,url: "https://themarkup.org/blacklight?url=loggbok.de&device=desktop&location=eu&force=false"}
   - {title: Mastodon, icon: mastodon, url: "https://social.densco.net/@densco"}
   - {title: Abonnieren, icon: rss, url: "/feed.xml"}
 

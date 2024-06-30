@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {file: "archive.html"}
+  - {file: "search.html"}
   - {file: "impressum.md"}
-  - {tile: Suche, icon: fa-magnifying-glass, url: "/search/"}
   - {title: No Tracking, icon: cookie-bite, url: "https://themarkup.org/blacklight?url=loggbok.de&device=desktop&location=eu&force=false"}
   - {title: Mastodon, icon: mastodon, url: "https://social.densco.net/@densco"}
   - {title: Abonnieren, icon: rss, url: "/feed.xml"}

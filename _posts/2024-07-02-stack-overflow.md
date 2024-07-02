@@ -1,0 +1,12 @@
+---
+title: "Stack Overflow"
+layout: post
+---
+
+Wer zwischen den Zeilen der letzten Beiträge lesen kann, erahnt die hohe Schlagzahl an Ereignissen im familiären Bereich bei uns. Die letzten 5 Wochen hatten es massiv in sich und wir müssen uns immer wieder schütteln und für die nächste Fragestellung postionieren. Solch eine intensive Phase frisst unfassbar viel Energie, nicht nur körperlich. Und die Liebste und ich sind ja "nur" die Angehörigen, die Dinge regeln und Rückhalt geben. Aber darin steckt so viel mehr als nur zu funktionieren. Es bedarf einer ganz massiven Kraftanstrengung, gleichzeitig aber auch einer guten Steuerung eben derselben.
+
+Die letzten Tage haben gezeigt, dass es aber auch wieder aufwärts gehen kann. Der Weg ist zwar lang, aber erste Schritte sind getan und das stimmt positiv. Es fühlt sich an wie die ersten warmen Sonnenstrahlen nach einem arktischen Winter. Auf einmal ist ein Licht da, welches man nicht erwartet hatte. Weder vom Timing noch von der noch zarten, aber fühlbaren Intensität. Man schließt die Augen und nimmt diese Wahrnehmung ganz tief in sich auf. Mit dem Bewusstsein, dass das Wetter wieder umschlagen kann - aber dass etwas überstanden sein kann.
+
+Um dem Stack Overflow zu begegnen, habe ich entgegen meiner ursprünglichen Position den überwiegenden Großteil der Fußball-EM verfolgt. Und dabei wieder festgestellt, wie weit ich mich von diesem Sport entfernt habe. Die große Begeisterung ist vorbei, es bleibt eher eine technische Betrachtung. Das teilweise schlechte Spielniveau (wenig überraschend, wenn der Kalender der Akteure mit immer mehr sinnlosen Wettbewerben gefüllt wird) und die massive Kommerzialisierung tragen zur inneren Abgrenzung bei. Ansonsten suche ich Ablenkung in der Arbeit und habe begonnen, mich mit Astro als neuer SSG-Alternative zu beschäfigen. Optisch macht es verdammt viel her und erleichtert den Einstieg ungemein. Andererseits wiegt das Paket im Vergleich zu Jekyll viel mehr, das stört mich etwas. Ich werde mich in den nächsten Tagen aber mit dem Grundaufbau ohne vorgefertigte Inhalte beschäftigen und das ist sicherlich deutlich schlanker.
+
+Sonntag habe ich vorsichtig in meine Jahresziele geschaut, dabei konnte ich doch tatsächlich ein paar Haken setzen. Meine Vermutung lag eigentlich deutlich geringer, gerade in Anbetracht der aktuellen Situation. Deswegen gehe ich die zweite Jahreshälfte auch entspannter an, gelernt habe ich (mal wieder): Du kannst alles planen, nur nicht das Leben. Aber du kannst planen, wie du damit umgehst.

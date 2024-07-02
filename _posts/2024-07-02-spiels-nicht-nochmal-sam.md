@@ -4,7 +4,7 @@ layout: post
 date: 2024-07-02 17:45:00
 ---
 
-Ich gehöre ja zur der Gruppe Menschen, die sich für Technologie begeistern können. Beim Thema KI bin ich aber sehr skeptisch, weil die Risiken noch nicht überblickbar sind und einige neunmalkluge Menschen mit Geschäftssinn gar nicht so sehr die Entwicklung, sondern die eigenen Gewinne im Kopf haben. Wasser auf den Mühlen meiner Bedenken ist das [Interview mit Sam Altman in der Süddeutschen Zeitung (Paywall)](https://www.sueddeutsche.de/wirtschaft/sam-altman-openai-ki-sicherheit-geld-microsoft-lux.VrU3cxGMoVANrthaRkJAwS?reduced=true), der unter Anderem folgende Bemerkung raushaut:
+Ich gehöre ja zur Gruppe Menschen, die sich für Technologie begeistern können. Beim Thema KI bin ich aber sehr skeptisch, weil die Risiken noch nicht überblickbar sind und einige neunmalkluge Menschen mit Geschäftssinn gar nicht so sehr die Entwicklung, sondern die eigenen Gewinne im Kopf haben. Wasser auf den Mühlen meiner Bedenken ist das [Interview mit Sam Altman in der Süddeutschen Zeitung (Paywall)](https://www.sueddeutsche.de/wirtschaft/sam-altman-openai-ki-sicherheit-geld-microsoft-lux.VrU3cxGMoVANrthaRkJAwS?reduced=true), der unter Anderem folgende Bemerkung raushaut:
 
 > „Künstliche Intelligenz wird uns vermutlich alle töten, aber bis dahin wird sie wirklich nützlich sein.“
 

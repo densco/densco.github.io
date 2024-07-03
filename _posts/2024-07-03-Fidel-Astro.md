@@ -1,7 +1,7 @@
 ---
 title: "Fidel Astro"
 layout: post
-date: 2024-07-03 19:15:00
+date: 2024-07-03 18:15:00
 ---
 
 Ich schrieb ja gestern dass ich mich im Zuge einer Horizonterweiterung mit Astro auseinander setze. Es gibt in der Dokumentation einen kleinen, aber sehr effektiven [Kurs](https://docs.astro.build/en/tutorial/0-introduction/), anhand dem man sich eine kleine Seite mit Blog, Tag-Konstruktion und RSS-Feed bauen kann und so lernt, wie die Elemente zusammen funktionieren. Den Kurs habe ich in zwei Feierabenden durchgearbeitet und habe einen guten Eindruck bekommen, wie die Funktionsweise so ist.

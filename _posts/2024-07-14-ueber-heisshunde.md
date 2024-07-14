@@ -1,0 +1,11 @@
+---
+title: "Über Heißhunde"
+layout: post
+date: 2024-07-14 16:48:00
+---
+
+Es gibt Tätigkeiten, die mir auch nach fast 40 Jahren Existenz nicht gelingen. Das unfallfreie Essen von Hotdogs gehört dazu. Wann immer die Liebste dieses Essen anregt, rolle ich innerlich die Augen und verfluche mein Ungeschick. Heute war ich unglücklicherweise auch noch für die Vorbereitungen abgeordnet, die Brötchen sind direkt misslungen. Erstaunlicherweise konnte ich aber drei (!) Hotdogs ohne Zwischenfälle zu mir nehmen, wenn man mal das groß angelegte Beschmieren der Mundpartie ignoriert. Dennoch werden die Heißhunde und ich niemals große Freunde werden, das gilt auch für Döner, Wraps und andere "Kann man ja mal eben aus der Hand essen"-Speisen.
+
+Der Delay in der beruflichen Welt ist inzwischen aufge- und verarbeitet, ein gutes Gefühl. Morgen ist ein Kunde auf einer "internen Veranstaltung", das schafft nochmals Freiraum und Gelegenheit, Weichen zu stellen. Ansonsten gilt es, Folgeprojekte zu akquirieren und neue Konzepte auf Folien zu bannen. Manchmal ärgere ich mich, dass ich das strategische nicht so gut vom operativen Denken trenne, gleich Umsetzungsprobleme wittere und dadurch konzeptuell nicht so groß denke wie gern gesehen. Vielen Großprojekten im Land würde aber eine Prise Realismus gut tun, der Stammtisch hätte weniger Grund zur Klage. Könnte doch einfach sein, oder?
+
+Mein Realschulabschluss jährte sich die Tage zum 22. Mal (Entschuldigung, aber WTF?) und scheinbar dachten sich ehemalige Klassenkamerad:innen, dass dies eine gute Gelegenheit für ein Wiedersehen wäre. Erstaunlicherweise hat man auch an mich gedacht und mir auf mehreren Wegen signalisiert, mich doch in eine eigens dafür eingerichtete WhatsApp-Gruppe zu begeben. Meine Gefühlslage ist ambivalent, die Zeit mit ihren Geschehnissen hätte aus meiner Perspektive für einen mitteltraurigen Charlie Brown als Heranwachsenden-Spinoff genügt. Natürlich habe ich mehr als genug Abstand gewonnen und kann das Damalige besser einordnen. Aber in Erinnerungen schwelgen bedeutet für mich in dem Fall etwas Anderes als für manch andere Person, eher ein Umgehenwollen von Remineszenzen. Immerhin ist es kein verpflichtender Schulbesuch, sondern eine freiwillige Geschichte und ich kann nochmal in mich gehen. Vielleicht sollte ich einfach nicht so hart zu mir und vor allem Anderen sein.

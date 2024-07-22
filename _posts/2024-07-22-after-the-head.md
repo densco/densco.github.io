@@ -1,0 +1,15 @@
+---
+title: "After the heat"
+layout: post
+date: 2024-07-22 15:58:00
+---
+
+Nach dreieinhalb Tagen Sommer brach schon wieder der Regen über uns herein. Dass der Mehrheit der Menschen sowohl in diesem als auch in anderen Ländern immer noch nicht auffällt, dass das kein Zufall ist und uns die wirklich ernsthaften Folgen unseren Handelns noch bevorstehen, macht mich fast noch mürber als Temperaturen jenseits der 25 Grad. What a time to be alive. Aber nicht im positiven Sinne.
+
+In Amerika möchte ein alter Mann seinen verantwortungsvollen Job doch besser nicht nochmals ausüben bzw. dafür kandidieren. Der andere alte Herr, der dachte, dass er dem leicht älteren Herrn daraus einen argumentativen Strick drehen könne, steht nun doof da. Weil er nicht weiß, wer stattdessen antritt. Es ist ein einziges Unterhaltungsdrama, eine niemals endende Daily Soap. Dummerweise wird dem Amt und dem Land viel Bedeutung und Macht zugemessen. Im Programm eines öffentlich-rechtlichen Senders ist man derweil der Meinung, dass die Schuhmarke einer möglichen Ersatzkandidatin ein relevantes Detail ist. Dessen Abkürzung bedeutet offenkunding Zentrum der Füße.
+
+Seit zwei Wochen nehmen die Liebste und ich uns vor, dass wir Käsespätzle essen wollen. Jedes Mal scheitert es daran, dass im Supermarkt Zutaten fehlen. Das ist ein ausgewachsenes Komplott - jedermann (und frau) weiß, wie wichtig Käsespätzle für die innere Mitte sind. Mit jedem Tag gehen wir gefühlt etwas schiefer, weil eben die Balance einer soliden Portion fehlt. Jeder innere Protest hilft aber nicht, das Regalfach bleibt unerbittlich leer. Bald fange ich wohl an, von diesem Gericht zu träumen.
+
+Beim Klassentreffen habe ich mich durchgerungen, an der Messenger-Gruppe teil zu nehmen. Der Ton ist sehr zivil, von den üblichen Statusvergleichen noch keine Spur. Die eher organisatorischen Köpfe kramen Namen hervor und mir fallen Erinnerungen teils leicht, teils habe ich gar kein Bild mehr im celebralen Speicher. Manche dieser Namen waren nach einem oder zwei Jahren aus der Klasse ausgetreten, das ist über 25 Jahre her. Natürlich ohne ein Wiedersehen irgendwelcher Art - wie soll mensch sich noch daran erinnern? Bis Ende des Monats werden noch die letzten Personen "überzeugt", dann erst geht es an eine Terminabstimmung. Man darf gespannt bleiben.
+
+Letztens erzählte ich im Blog vom [derzeitig spannendsten Instagram-Account](https://loggbok.de/2024/05/31/wir-muessen/), dem Buchantiquariat Willbrand. Im Rahmen einer Aktion wurden sogenannte Mystery-Boxen verkauft, wir haben auch zugeschlagen. Neben Dürrenmatts Besuch der alten Dame (das einzige Stück Literatur aus der Schulzeit, dass mir Freude bereitete) waren zwei Werke drin, bei denen ich noch den Zugang finden muss: "Die geheimen Aufzeichnungen des Don Rigoberto" von Mario Vargas Llosa und "Portugals strahlende Größe" von António Lobo Antunes. Eine tragische Komödie, ein erotischer und ein geschichtsbezogener Roman. Was für eine Mischung, daran werden wir lange zu knabbern haben. 

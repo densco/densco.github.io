@@ -20,6 +20,7 @@ layout: page
 
 ### Podcasts
 
+- [Esel & Teddy](https://esel-und-teddy.de)
 - [Radio Bastard](https://radiobastard.fm)
 - [Unf*ck your data](https://unfck-your-data.captivate.fm/)
 

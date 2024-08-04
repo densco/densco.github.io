@@ -1,7 +1,7 @@
 ---
 title: "Im Norden nichts Neues"
 layout: post
-date: 2024-08-04 16:55:00
+date: 2024-08-04 17:20:00
 ---
 
 Was macht der Mensch in der Retrospektive mit einer Woche, in der nichts Aufregendes geschah? Wenn trotz großer Mühe kein substanzielles High- oder Lowlight erkenn- und beschreibbar ist? Er schreibt trotzdem etwas auf, weil das Ritual gepflegt werden will.

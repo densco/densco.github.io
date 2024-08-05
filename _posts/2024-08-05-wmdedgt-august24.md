@@ -28,7 +28,7 @@ __14:00:__ Kleine Snack-Pause, danach geht es weiter mit der Präsentation.
 
 __15:30:__ Ein weiterer Kunden-Abstimmungscall, eingeleitet mit etwas Geplauder zum Thema selbst Bier brauen. Man braucht mehr solcher Termine an Montagen.
 
-__16:00:__ Noch eine Stunde Deep Fokus auf die Präsentation.
+__16:00:__ Noch eine Stunde Deep Focus auf die Präsentation.
 
 __17:00:__ Täglicher Kehraus, Mails beantworten, Deadlines setzen und Anforderungen stellen.
 

@@ -12,7 +12,7 @@ __08:10:__ Nach dem üblichen Körperpflege-Vorgang prüfe ich erste Mails und V
 
 __08:20:__ Heute gibt es losen Ostfriesen-Tee, ich bereite alles gemäß der [ISO-Norm](https://loggbok.de/2024/05/30/genormter-tee/) vor. Dabei fallen Dinge auf, die nachgekauft werden müssen. Ich übertrage sie seufzend in die Einkaufsliste.
 
-__08:40:__ Wieder am Schreibtisch jage ich Kundenfreigaben zu verschiedenen Themen durch und leite nach postiven Bescheiden die weiteren Schritte ein.
+__08:40:__ Wieder am Schreibtisch jage ich Kundenfreigaben zu verschiedenen Themen durch und leite nach positiven Bescheiden die weiteren Schritte ein.
 
 __09:30:__ Verschiedentliche Abstimmungscalls zu unterschiedlichen Projekten
 
@@ -34,4 +34,8 @@ __17:00:__ Täglicher Kehraus, Mails beantworten, Deadlines setzen und Anforderu
 
 __17:45:__ Feierabend. Für morgen kurz die Tasks sortieren. Die Liebste kocht, es gibt Milchreis.
 
-_to be continued_
+__18:10:__ Nach dem Essen entspanne ich etwas und schaue mir Dokus zur Bonner Republik an.
+
+__19:40:__ Ich räume die Spülmaschine aus und wieder ein. Danach wieder ein positiver Beitrag zur Screentime.
+
+__22:30:__ Da ich am nächsten Tag bereits das erste Meeting um 8 Uhr habe und früher aufstehen muss, gehe ich ins Bett. Katze 1 schnurrt mich in den Schlaf.

@@ -17,6 +17,9 @@ Eine Auswahl an Blogs und Podcasts, die ich gerne verfolge. [LINK](/blogroll/)
 #### /colophon
 Für die Technikfreunde ist hier das "Backend" der Seite vorgestellt. [LINK](/colophon/)
 
+#### /nope
+Dinge, die ich ablehne (mit partiellen Begründungen) [LINK](/nope/)
+
 #### /uses
 Ein Überblick über Hard- und Software, die ich (mehr oder weniger) regelmäßig verwende. [LINK](/uses/)
 

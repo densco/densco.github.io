@@ -10,7 +10,7 @@ Loggbok ist die schwedische Übersetzung des Wortes "Logbuch". Also das Buch, in
 Dieses Blog ist stolzes Mitglied des Webrings [UberBlogr](https://uberblogr.de/) und trägt die virtuelle Hausnummer 33.
   
 #### Über den Autor
-Der Autor ist Ende 30, lebt nahe und arbeitet in Hamburg als Marketing-Berater und interessiert sich für Computerkram, Musik, Snooker und lernt seit Anfang 2020 das koordinierte Bedienen eines Schlagzeugs. Er ist Familienvater, das inkludiert auch drei Katzen und einen Kater.
+Der Autor ist Ende 30, lebt nahe und arbeitet in Hamburg als Marketing-Berater, interessiert sich für Computerkram, Musik, Snooker und lernt seit Anfang 2020 das koordinierte Bedienen eines Schlagzeugs. Er ist Familienvater, das inkludiert auch drei Katzen und einen Kater.
 
 ![Der Autor 2019 am Langeooger Strand beim Versuch, ein möglichst ungestelltes Selfie zu erstellen.](/assets/autor.jpeg)
   

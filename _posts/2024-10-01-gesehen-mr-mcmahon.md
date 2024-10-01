@@ -1,0 +1,15 @@
+---
+title: "Gesehen: "Mr. McMahon""
+layout: post
+date: 2024-10-01 07:55:00
+---
+
+Als Mitte der Achtziger Geborener sind mir natürlich alle popkulturellen Trends der 90er sehr gegenwärtig, dazu gehört auch Wrestling. Erste Berührungspunkte hatte ich damals noch in Urlauben bei meinen Bruder, wo im Fernsehen über Satellit damals noch die amerikanische Fassung von Cartoon Network und dann abends auf TNT umgeschaltet wurde, wo "WCW Monday Nitro" lief. Relativ schnell erfuhr ich aber auch von der damalig noch WWF heißenden Konkurrenz und war leibhaftiger Augenzeuge der Attitude Era. Mit der Zeit verlief sich das Interesse aber und flackert nur noch sporadisch immer wieder auf.
+
+Eine Konstante in der Wrestling-Welt war für über 40 Jahre Vince McMahon, der die Liga seines Vaters per Management-BuyOut übernahm und den Siegeszug des Kabelfernsehens in den USA als seine große Chance begriff. In der Tat hatte er auf das richtige Pferd gesetzt und aus einer fragmentierten Landschaft voller Regionalligen ein milliardenschweres Fast-Monopol geschaffen, in dem er und auch nur er das Sagen hatte. Dabei ging er nicht zimperlich vor - gegen die Konkurrenz, gegen seine Angestellten und auch nicht gegen die Familie. All das zeigt die seit letzten Mittwoch auf Netflix publizierte Doku in sechs Teilen.
+
+Tenor ist die Geschichte eines in der Kindheit schweren Bedingungen ausgesetzten Menschen, dessen Vater ihn nach 14 Jahren doch unter seine Fittiche nimmt und von ihm den Geschäftssinn lernt, mit dem er aus der WWWF erst die WWF und dann unter dem Namen WWE das Unternehmen macht, das heute eine gelddruckende Produktion auf höchstem Niveau ist. Doch der Aufstieg ist gesäumt von Skandalen, McMahon macht einen schwierigen Eindruck, wirkt teilweise gar angeschlagen. Am Ende windet er sich doch aus jeder Schwierigkeit raus und steht da - als wäre nichts passiert. Als hätte es die Einschläge nie gegeben oder er hätte damit nichts zu tun.
+
+Doch irgendwann ist es der Skandal zu viel, der McMahon mit 77 Jahren zum Rücktritt zwingt. Er kommt zwar nochmal zurück, um den Verkauf seiner Firma zu vollziehen. Dann gibt es neue Vorwürfe, Klagen auf Bundesebene und den endgültigen Rücktritt. Dabei verliert er die Sympathie vieler Menschen und offenkundig auch die seiner Kinder. So bleibt am Ende das Bild eines Getriebenen, der nur für seine Firma lebte und nun diesen Lebensinhalt verloren hat.
+
+Vieles in der Doku ist den Wrestling-Interessierten bekannt, Außenstehenden wird das Ausmaß der Skandale und Vorwürfe erschreckend vorkommen. McMahon selbst hat die Doku in einem Statement als unausgewogen kritisiert, es würde ein falsches Bild von ihm gezeichnet. Es passt nicht in seine Selbstwahrnehmung, dass die Doku wie eine Niederlage im Ring endet - Vince ist in seinem Leben immer irgendwie zum Sieger geworden. Genau diese Wahrnehmung wird gebrochen. Und das völlig zu recht. Produktion und Aufbau sind gut und stimmig, inhaltlich ist es an einigen Stellen etwa schwammig. Trotzdem eine solide 7/10.

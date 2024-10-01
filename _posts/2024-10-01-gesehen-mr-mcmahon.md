@@ -1,5 +1,5 @@
 ---
-title: "Gesehen: "Mr. McMahon""
+title: "Gesehen: Mr. McMahon"
 layout: post
 date: 2024-10-01 07:55:00
 ---

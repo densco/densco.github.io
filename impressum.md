@@ -5,21 +5,18 @@ layout: page
 ---
 
 #### Angaben gemäß § 5 TMG
-{% highlight c %}
+
 
 Denis Scollie
 Leipziger Str. 10
 21423 Winsen (Luhe)
 
-{% endhighlight %}
 
 #### Kontakt
-{% highlight c %}
 
 E-Mail: hej@loggbok.de
 Weitere Kontaktdaten auf Anfrage.
 
-{% endhighlight %}
 
 Ich widerspreche ausdrücklich der Nutzung und/oder Übermittlung meiner hier genannten Kontaktdaten für kommerzielle Zwecke oder für die Markt- bzw. Meinungsforschung (§28 Abs.4 BDSG).
 

@@ -5,6 +5,7 @@ layout: page
 
 ---
 #### Hardware
+- Apple MacBook Pro 14", 2024
 - Apple MacBook Pro 14", 2021
 - Apple iPad Air 5. Gen, 2023
 - Samsung U28E590DSL, 2021

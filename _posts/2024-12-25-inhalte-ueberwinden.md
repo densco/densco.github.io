@@ -4,7 +4,7 @@ layout: post
 date: 2024-12-25 21:12:00
 ---
 
-Ein mir lieber Netzkontakt und ich hatten Montag einige Konversation per Mastodon, es ging um die Technik hinter meinem Blog und was er denn nutzen könne, um eine nicht favorisierte Konstruktion abzulösen. Wir haben viele Ideen ausgetauscht, am Ende war in all der Vielfalt an Ideen doch immer ein Haken. Das zeigt die Komplexität der Thematik Website bzw. Weblog doch eindrucksvoll.
+Ein mir lieber Netzkontakt und ich hatten Montag einige Konversation per Mastodon, es ging um die Technik hinter mein Blog und was er denn nutzen könne, um eine nicht favorisierte Konstruktion abzulösen. Wir haben viele Ideen ausgetauscht, am Ende war in all der Vielfalt an Ideen doch immer ein Haken. Das zeigt die Komplexität der Thematik Website bzw. Weblog doch eindrucksvoll.
 
 Klar, mit einem WordPress-Setup kann man viel anstellen. Und ja, es ist ein vergleichsweise einfach zu bedienender Angang für Menschen, denen die Technik eher Last als Freude ist. Aber auch hier liegt der Teufel im Detail, Absicherung gegen bösartige Zugriffe aller Art, Backup-Strategie, DSGVO-Konformität et cetera. Das haben viele Nutzer:innen gar nicht so auf dem Radar. Dazu kommt die mittlerweile doch sehr gewichtige Struktur, oftmals wird mit Plugins versucht, den Pagespeed zu optimieren. WordPress ist halt seit Langem ein CMS, keine Weblog-Software mehr.
 

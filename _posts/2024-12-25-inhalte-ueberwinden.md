@@ -1,0 +1,17 @@
+---
+title: "Inhalte überwinden"
+layout: post
+date: 2024-12-25 21:12:00
+---
+
+Ein mir lieber Netzkontakt und ich hatten Montag einige Konversation per Mastodon, es ging um die Technik hinter meinem Blog und was er denn nutzen könne, um eine nicht favorisierte Konstruktion abzulösen. Wir haben viele Ideen ausgetauscht, am Ende war in all der Vielfalt an Ideen doch immer ein Haken. Das zeigt die Komplexität der Thematik Website bzw. Weblog doch eindrucksvoll.
+
+Klar, mit einem WordPress-Setup kann man viel anstellen. Und ja, es ist ein vergleichsweise einfach zu bedienender Angang für Menschen, denen die Technik eher Last als Freude ist. Aber auch hier liegt der Teufel im Detail, Absicherung gegen bösartige Zugriffe aller Art, Backup-Strategie, DSGVO-Konformität et cetera. Das haben viele Nutzer:innen gar nicht so auf dem Radar. Dazu kommt die mittlerweile doch sehr gewichtige Struktur, oftmals wird mit Plugins versucht, den Pagespeed zu optimieren. WordPress ist halt seit Langem ein CMS, keine Weblog-Software mehr.
+
+Flat-File-CMS klingen nach einer guten Alternative. Die potentielle Schwachstelle Datenbank entfällt, oftmals kann mit Markdown der Inhalt erstellt werden. Das sorgt dafür, dass man erheblich viel an Ressourcen im Vergleich zu WP einsparen kann. Nachteil ist, dass man oftmals so gut wie keine Vielfalt an Themes vorfindet. Und wenn doch, sind 90% hässlich oder seit erheblicher Zeit nicht aktualisiert worden. Selber bauen ist dann die Devise, aber als Hobby-Enthusiast mit Beruf, Familienleben und der eh knapp bemessenen Freizeit ist das eine erhebliche Aufgabe, besonders bei rudimentären Kenntnissen im Bereich CSS und JavaScript. Ja klar, dann nimmt man Bootstrap. Aber auch da muss man sich einarbeiten.
+
+Oder man macht es so wie hier: Man nehme einen Static Site-Generator, werfe diesen auf GitHub Pages oder Netlify (oder hat Bock auf Nervenkitzel und hostet selbst) und baut sich auf Basis eines einigermaßen brauchbarem Themes eine nette Struktur. Ich bin weit weg von einem Programmierer, muss oft Dinge googlen und habe oft Fehler, aber mit Geduld und Spucke funktioniert der Bums. Und das weitestgehend ohne Hauch eines systemischen Fehlers. In einer Art und Weise, die den Fokus auf die Beiträge legt. Oftmals sind die Vorlagen und Funktionsweisen bei SSGs auf Portfolio-Seiten mit angegliedertem Blog-Teil ausgerichtet, es ist dann eher ein Feature und soll anscheinend eher den Autor abfeiern. Nennt mich old-fashioned, aber bei einem Weblog geht es um Inhalte - nicht darum, dass der Autor einen tollen CV hat.
+
+Diese Blog gibt es in der Form seit über zwei Jahren, es durchlief verschiedene Iterationen und Innovationen, der Kern und die Infrastruktur blieb aber immer gleich. Obwohl ich kein Webdeveloper bin, bin ich mit der Seite an sich zufrieden. Mich wurmt eher die Abhängigkeit von GitHub, da ich das Thema Self-Hosting bisher noch nicht zufriedenstellend lösen konnte. Die Anleitungen dazu sind auch oft mangelhaft, bzw. setzen teilweise Kenntnisse voraus, die ich mir zeitbedingt nicht verschaffen konnte. So bleibt es erstmal bei GitHub Pages, zumindest bis ich den Dreh raus habe. Und das ist der Schlüssel: Geduld. Rom wurde auch nicht an einem Tag deployed.
+
+Jedenfalls: Lieber Stefan, ich freue mich auf deinen Jahresrückblick - egal, mit welcher technischen Basis auch immer du ihn ins Netz bringst. Und ich würde mich auch freuen, wenn du noch mehr bloggen würdest. 😉

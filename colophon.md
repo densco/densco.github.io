@@ -12,6 +12,6 @@ layout: page
 **Codingsprachen**: HTML, CSS, Sass, JS, Markdown  
 **Suche**: lunr.js [LINK](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)  
 **Icons**: Font Awesome [LINK](https://fontawesome.com)  
-**Editor**: VS Codium  
+**Editor**: VSCodium  
 
 [^1]: Static Site Generator, sehr gut [hier erklärt](https://kinsta.com/de/docs/statisches-seiten-hosting/statische-seiten-erste-schritte/statische-seite-generatoren/).

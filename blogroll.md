@@ -14,7 +14,7 @@ layout: page
 - [Lars Reineke](https://larsreineke.de/)
 - [Niklas Buschmann](https://niklasbuschmann.github.io/) - Ersteller des Blogtemplates
 - [Thomas Gigold](https://gigold.me/blog/)
-- [vomran](https://www.vomran.de)
+- [vomran.de](https://www.vomran.de)
 - [wssndrf](https://wssndrf.me)
 
 ### Webring
